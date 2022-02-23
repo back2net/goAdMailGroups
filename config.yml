@@ -1,0 +1,6 @@
+bindUsername: "test.user@svetlana-k.ru"
+bindPassword: "12345"
+userBaseOU: "Domain Users"
+userBaseDN: "OU=Сотрудники,OU=Domain Users,dc=svetlana-k,dc=ru"
+groupBaseDN: "OU=mailGroups,OU=Domain Groups,dc=svetlana-k,dc=ru"
+domainController: "dc.svetlana-k.ru"
